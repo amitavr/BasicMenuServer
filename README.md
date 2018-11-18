@@ -1,4 +1,4 @@
-# MenuServer
+# BasicMenuServer
 
 Purpose: Coding basic server-client 
 
