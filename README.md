@@ -1,4 +1,4 @@
-# BasicMenuServer
+# BasicMenuServer Python 3.6
 
 Purpose: Coding basic server-client 
 
